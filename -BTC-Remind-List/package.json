@@ -1,0 +1,22 @@
+{
+  "name": "danreminder",
+  "version": "1.0.0",
+  "description": "Este es un proyecto el cual va a ser un webservice donde vamos a recoger y administrar todas las tareas que el usuario desee recordar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielArmengod1996/-BTC-Remind-List.git"
+  },
+  "keywords": [
+    "reminder"
+  ],
+  "author": "Daniel Armengod Sorrosal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielArmengod1996/-BTC-Remind-List/issues"
+  },
+  "homepage": "https://github.com/DanielArmengod1996/-BTC-Remind-List#readme"
+}
